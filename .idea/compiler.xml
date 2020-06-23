@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fightlib" />
+        <module name="geolib" />
+        <module name="java-rouge" />
+        <module name="java-rouge-javafx" />
+        <module name="maplib" />
+        <module name="maplibdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fightlib" target="1.8" />
+      <module name="geolib" target="1.7" />
+      <module name="java-rouge" target="8" />
+      <module name="java-rouge-javafx" target="8" />
+      <module name="maplib" target="1.7" />
+      <module name="maplibdemo" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

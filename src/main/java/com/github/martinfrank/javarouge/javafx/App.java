@@ -1,9 +1,7 @@
 package com.github.martinfrank.javarouge.javafx;
 
-import com.github.martinfrank.javarouge.controller.RougeController;
-import com.github.martinfrank.javarouge.javafx.gui.ControllerFactory;
-import com.github.martinfrank.javarouge.javafx.gui.RootController;
-import com.github.martinfrank.javarouge.javafx.gui.SwtView;
+import com.github.martinfrank.javarouge.javafx.control.Controller;
+import com.github.martinfrank.javarouge.javafx.control.ControllerFactory;
 import com.github.martinfrank.javarouge.javafx.res.ResourceManager;
 import com.github.martinfrank.javarouge.model.Player;
 import com.github.martinfrank.javarouge.model.RougeGame;
@@ -31,8 +29,12 @@ public class App extends Application {
 
     @Override
     public void init() {
+        RougeGame game = new RougeGame();
+        SaveGame saveGame = new SaveGame(new Player("mosh"));
+        game.loadSaveGame(saveGame);
+
         ResourceManager resourceManager = new ResourceManager(getClass().getClassLoader());
-        ControllerFactory controllerFactory = new ControllerFactory();
+        ControllerFactory controllerFactory = new ControllerFactory(game);
         try {
             FXMLLoader fxmlLoader = new FXMLLoader(resourceManager.getGuiRoot());
             fxmlLoader.setControllerFactory(controllerFactory);
@@ -40,12 +42,8 @@ public class App extends Application {
         } catch (IOException e) {
             LOGGER.debug("error", e);
         }
-        RootController rootController = controllerFactory.getRootController();
-        rootController.setRougeController(new RougeController<>(new SwtView(root), new RougeGame()));
-        rootController.init();
-
-        SaveGame saveGame = new SaveGame(new Player("mosh"));
-        rootController.loadSaveGame(saveGame);
+        Controller controller = controllerFactory.getRootController();
+        controller.init();
     }
 
     @Override

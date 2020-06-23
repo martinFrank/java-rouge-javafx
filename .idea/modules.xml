@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../fight-lib/fightlib.iml" filepath="$PROJECT_DIR$/../fight-lib/fightlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../geometry-library/geolib.iml" filepath="$PROJECT_DIR$/../geometry-library/geolib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-rouge/java-rouge.iml" filepath="$PROJECT_DIR$/../java-rouge/java-rouge.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-rouge-javafx.iml" filepath="$PROJECT_DIR$/java-rouge-javafx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../map-library/maplib.iml" filepath="$PROJECT_DIR$/../map-library/maplib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../map-library-demo/maplibdemo.iml" filepath="$PROJECT_DIR$/../map-library-demo/maplibdemo.iml" />
     </modules>
   </component>
 </project>

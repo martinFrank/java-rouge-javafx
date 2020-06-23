@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac38f88a-bc34-4876-a97d-3d2423a42abb" name="Default Changelist" comment="" />
+    <list default="true" id="ac38f88a-bc34-4876-a97d-3d2423a42abb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/FieldRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/PlayerRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/BigRoomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/CorridorAndRoomsMazeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGeneratorConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGeneratorUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/message/MessageConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../map-library/src/test/java/com/github/martinfrank/maplib/MapNeigborTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-rouge-javafx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-rouge-javafx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/gui/ControllerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/ControllerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/gui/RootController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/gui/RougeMapCanvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/MapCanvas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/gui/SwtView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/gui/root.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gui/root.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/controller/RougeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/RougeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/RougeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/entity/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/MapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/MapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMapFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMapFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/mapdata/RougeMapFieldData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/mapdata/RougeMapFieldData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Structure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Structure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Terrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Terrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/rules/WalkCostRules.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/rules/WalkCostRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/save/SaveGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/save/SaveGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/view/BasicProgressMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/view/ProgressMonitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/view/RougeView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/test/java/com/github/martinfrank/javarouge/JavaRougeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/test/java/com/github/martinfrank/javarouge/view/RogeViewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-rouge/src/test/java/com/github/martinfrank/javarouge/view/TestView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library-demo/src/main/java/com/github/martinfrank/maplibdemo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library-demo/src/main/java/com/github/martinfrank/maplibdemo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/MapField.java" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/MapField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/MapFieldShaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/MapFieldShaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/MapStyle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/MapStyle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../map-library/src/test/java/com/github/martinfrank/maplib/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../map-library/src/test/java/com/github/martinfrank/maplib/MapTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../map-library/target/" />
+    <ignored path="$PROJECT_DIR$/../geometry-library/target/" />
+    <ignored path="$PROJECT_DIR$/../map-library-demo/target/" />
+    <ignored path="$PROJECT_DIR$/../fight-lib/target/" />
+    <ignored path="$PROJECT_DIR$/../java-rouge/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +70,268 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/FieldRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1751">
+              <caret line="115" column="74" selection-start-line="115" selection-start-column="74" selection-end-line="115" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/CorridorAndRoomsMazeGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/BigRoomGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../java-rouge" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/gui/SwtView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/gui/RootController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/ViewRoot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/ViewControllerRoot.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/ViewController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/ViewControllerFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/ViewController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/App.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/Renderer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/PlayerRenderer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/gui/steering.fxml" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMap.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/message/MessageConsumer.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/message/Message.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGeneratorUtil.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/mapdata/RougeMapFieldData.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMapFactory.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/MapUtils.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/RougeGame.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/save/SaveGame.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/gui/root.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/Controller.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Room.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/MapCanvas.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGeneratorConfiguration.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Structure.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/BigRoomGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/FieldRenderer.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGenerator.java" />
+        <option value="$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/CorridorAndRoomsMazeGenerator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="147" />
+    <option name="y" value="69" />
+    <option name="width" value="1449" />
+    <option name="height" value="835" />
+  </component>
   <component name="ProjectId" id="1ZhsoxuQqDzGwjJiugUi91QGHoq" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javarouge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javarouge" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javarouge" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="maze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javarouge" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="rules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-rouge-javafx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-rouge-javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +341,43 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592895441176" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fight-lib/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.martinfrank.javarouge.javafx.App" />
+      <module name="java-rouge-javafx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.martinfrank.javarouge.javafx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,5 +391,418 @@
       <updated>1585302838580</updated>
     </task>
     <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="147" y="69" width="1449" height="835" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29229662" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32905984" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.19582434" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/SwtView.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/SwtRougeController.java" />
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/controller/RougeController.java" />
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/test/java/com/github/martinfrank/javarouge/view/RogeViewTest.java" />
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/test/java/com/github/martinfrank/javarouge/view/TestView.java" />
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/Launcher.java" />
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/test/java/com/github/martinfrank/javarouge/JavaRougeTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="170" column="29" selection-start-line="170" selection-start-column="29" selection-end-line="170" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/ControllerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/save/SaveGameUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Programme/JDK/javafx-src.zip!/javafx/scene/canvas/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="99" column="11" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="11" />
+          <folding>
+            <element signature="e#2071#2072#0" expanded="true" />
+            <element signature="e#2097#2098#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/PlayerRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="60" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/gui/steering.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/message/MessageConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/message/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Terrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../map-library/src/main/java/com/github/martinfrank/maplib/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="110" column="13" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="13" />
+          <folding>
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1626#1627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/save/SaveGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/mapdata/RougeMapFieldData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+          <folding>
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1140#1141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/MapUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/map/RougeMapFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/RougeGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="e#1904#1905#0" expanded="true" />
+            <element signature="e#1933#1934#0" expanded="true" />
+            <element signature="e#2009#2010#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/gui/root.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/MapCanvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="63" column="25" selection-start-line="63" selection-start-column="25" selection-end-line="63" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGeneratorUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/Renderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGeneratorConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="103" column="5" selection-start-line="86" selection-start-column="26" selection-end-line="103" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/control/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="55" column="35" selection-start-line="55" selection-start-column="35" selection-end-line="55" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/Structure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../geometry-library/src/main/java/com/github/martinfrank/geolib/GeoPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Programme/JDK/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="134" column="11" selection-start-line="134" selection-start-column="11" selection-end-line="134" selection-end-column="11" />
+          <folding>
+            <element signature="e#3504#3505#0" expanded="true" />
+            <element signature="e#3562#3563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/martinfrank/javarouge/javafx/view/FieldRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/MazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="115" column="74" selection-start-line="115" selection-start-column="74" selection-end-line="115" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1264#1265#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/BigRoomGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-rouge/src/main/java/com/github/martinfrank/javarouge/model/maze/CorridorAndRoomsMazeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fightlib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

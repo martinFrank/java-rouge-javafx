@@ -5,6 +5,7 @@ import com.github.martinfrank.javarouge.javafx.control.ControllerFactory;
 import com.github.martinfrank.javarouge.javafx.res.ResourceManager;
 import com.github.martinfrank.javarouge.model.Player;
 import com.github.martinfrank.javarouge.model.RougeGame;
+import com.github.martinfrank.javarouge.objects.ObjectsManager;
 import com.github.martinfrank.javarouge.save.SaveGame;
 import javafx.application.Application;
 import javafx.application.Platform;
@@ -16,6 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
+import java.sql.SQLException;
 
 public class App extends Application {
 
@@ -26,11 +28,13 @@ public class App extends Application {
     }
 
     private Pane root;
+    private RougeGame game;
 
     @Override
-    public void init() {
-        RougeGame game = new RougeGame();
-        SaveGame saveGame = new SaveGame(new Player("mosh"));
+    public void init() throws SQLException, IOException, ClassNotFoundException {
+        ObjectsManager objectsManager = new ObjectsManager();
+        game = new RougeGame(objectsManager);
+        SaveGame saveGame = new SaveGame(new Player("mosh"), objectsManager);
         game.loadSaveGame(saveGame);
 
         ResourceManager resourceManager = new ResourceManager(getClass().getClassLoader());
@@ -59,4 +63,9 @@ public class App extends Application {
         }
     }
 
+    @Override
+    public void stop() throws Exception {
+        super.stop();
+        game.close();
+    }
 }
